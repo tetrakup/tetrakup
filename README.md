@@ -1,5 +1,3 @@
-# Merhaba, Benim Adım [Adınız]! 👋
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tetrakup&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Profil Görüntüleme" />
 </p>
