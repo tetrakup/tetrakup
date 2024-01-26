@@ -1,7 +1,7 @@
 # Merhaba, Benim Adım [Adınız]! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tetrakup&label=Profil%20Görüntüleme&color=0e75b6&style=flat-square" alt="Profil Görüntüleme" />
+  <img src="https://komarev.com/ghpvc/?username=tetrakup&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Profil Görüntüleme" />
 </p>
 
 ## Benimle Bağlantı Kurun:
@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
   </a>
   <!-- Diğer diller ve araçlar buraya gelebilir -->
 </p>
