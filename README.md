@@ -56,5 +56,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tetrakup&show_icons=true" alt="GitHub İstatistikleri" />
 </p>
-
-n için bir [Ko-fi](https://ko-fi.com/rahuldkjain) satın alarak veya [PayPal](https://www.paypal.com/paypalme/rahuldkjain) üzerinden bağış yaparak destek olabilirsiniz.
