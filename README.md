@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=tetrakup&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Profil Görüntüleme" />
 </p>
 
-## Benimle Bağlantı Kurun:
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ceylanatay/)
-
 ## Diller ve Araçlar:
 
 <p align="left">
