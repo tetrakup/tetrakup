@@ -50,10 +50,10 @@
 ## GitHub İstatistikleri:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetrakup&layout=compact&langs_count=10" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tetrakup&theme=tokyo-night" alt="En Çok Kullanılan Diller" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tetrakup&show_icons=true" alt="GitHub İstatistikleri" />
 </p>
-https://github-readme-activity-graph.vercel.app/graph?username=tetrakup&theme=tokyo-night
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tetrakup&theme=tokyo-night">
