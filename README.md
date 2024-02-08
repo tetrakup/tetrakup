@@ -57,3 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tetrakup&show_icons=true" alt="GitHub İstatistikleri" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tetrakup&theme=tokyo-night">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
