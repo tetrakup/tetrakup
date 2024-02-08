@@ -35,7 +35,7 @@ jobs:
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
+          TARGET_PATH: https://github.com/tetrakup/tetrakup # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: tetrakup # optional
