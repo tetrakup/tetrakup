@@ -7,7 +7,7 @@
   
 <!--![Ceylan](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)-->
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         Jr. Software Developer
