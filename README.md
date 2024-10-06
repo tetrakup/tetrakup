@@ -1,4 +1,5 @@
 ![Ceylan](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![Snake animation](https://github.com/tetrakup/tetrakup/blob/output/snake.svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tetrakup&label=Profile%20views&color=0e75b6&style=flat)
 
